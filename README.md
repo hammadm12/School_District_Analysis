@@ -6,3 +6,30 @@ Analysis of school district data regarding standardized test data in order to in
 ## Results
 
 ![](Resources/District_Summary.PNG)
+
+![](Resources/District_Summary_minus_9th_grade_THS.PNG)
+
+![](Resources/School_Summary.PNG)
+
+![](Resources/School_Summary_without_THS.PNG)
+
+![](Resources/Top_Five_Schools.PNG)
+
+![](Resources/Bottom_Schools.PNG)
+
+![](Resources/Math_Grades.PNG)
+
+![](Resources/Math_Grades_without_THS.PNG)
+
+![](Resources/Reading_Scores_without_THS.PNG)
+
+![](Resources/Scores_by_School_type.PNG)
+
+![](Resources/Scores_by_School_type_minus_9th_grade_THS.PNG)
+
+![](Resources/School_Spending_by_Size_overall.PNG)
+
+
+
+
+
