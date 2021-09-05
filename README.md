@@ -5,4 +5,4 @@ Analysis of school district data regarding standardized test data in order to in
 
 ## Results
 
-![](Resources/District Summary minus 9th grade THS.PNG)
+![](Resources/District_Summary.PNG)
