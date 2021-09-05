@@ -70,8 +70,29 @@ When analyzing the total spending between schools, school type and per student, 
 - The math passing percentage saw a decrease from **73%** to **67%**
 - the reading passing percentage saw a decrease from **84%** to **77%**
 
+*Scores by school spending size*
 
+![](Resources/School_Spending_by_Size_overall.PNG)
 
+*Scores by school spending size without 9th grade THS*
 
+![](Resources/School_size_minus_9th_grade_THS.PNG)
 
+When comparing the before/ after of analysis of the school size, we do see that in the medium school range (where Thomas High School falls under), we see the percentages of:
+- students who passed reading decrease from **97%** to **91%**
+- students who passed math decrease from **94%** to **88%**
+- students who passed overall decrease from **91%** to **85**
 
+*Scores by school type*
+
+![](Resources/Scores_by_School_type.PNG)
+
+*Scores by school type without 9th grade THS*
+
+![](Resources/Scores_by_School_type_minus_9th_grade_THS.PNG)
+
+We also observe the changes in grades impacting overall scores for the charter schools with scores dropping around by 4% between all percentage categories.
+
+## Summary
+
+All in all, the omitted school data for one grade level did impact the overall school district analysis data. Even though it appeared miniscule, the changes did have an impact with scores from reading, math and overall dropping in all categories listed in the csv spreadsheet. The altered grades boosted the performance of Thomas High School as a whole to the point at first analysis, it appeared they were performing tremondously well. But after changes were made to the spreadsheet, we observed how small differences in less than 5% significantly impacted the performance of Thomas High School
