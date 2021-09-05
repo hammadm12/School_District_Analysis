@@ -8,33 +8,43 @@ Analysis of school district data regarding standardized test data in order to in
 *District Summary*
 ![](Resources/District_Summary.PNG)
 
+*District Summary without 9th grade THS scores*
 ![](Resources/District_Summary_minus_9th_grade_THS.PNG)
 
+*School Summary*
 ![](Resources/School_Summary.PNG)
 
+*School Summary without 9th grade THS*
 ![](Resources/School_Summary_without_THS.PNG)
 
+*Top Five Schools*
 ![](Resources/Top_Five_Schools.PNG)
 
+*Bottom Five Schools*
 ![](Resources/Bottom_Schools.PNG)
 
+*Math Grades*
 ![](Resources/Math_Grades.PNG)
 
+*Math Grades without 9th grade THS*
 ![](Resources/Math_Grades_without_THS.PNG)
 
+*Reading scores without 9th grade THS*
 ![](Resources/Reading_Scores_without_THS.PNG)
 
+*Scores by School type*
 ![](Resources/Scores_by_School_type.PNG)
 
+*Scores by school type without 9th grade THS*
 ![](Resources/Scores_by_School_type_minus_9th_grade_THS.PNG)
 
+*School Spending by Size*
 ![](Resources/School_Spending_by_Size_overall.PNG)
 
+*School Spending without 9th grade THS*
 ![](Resources/Spending_Ranges_minus_9th_THS.PNG)
 
-![](Resources/Scores_by_School_type.PNG)
 
-![](Resources/Scores_by_School_type_minus_9th_grade_THS.PNG)
 
 
 
