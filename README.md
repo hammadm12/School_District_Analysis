@@ -49,13 +49,6 @@ Analysis of school district data regarding standardized test data in order to in
 
 ![](Resources/Scores_by_School_type_minus_9th_grade_THS.PNG)
 
-*School Spending by Size*
-
-![](Resources/School_Spending_by_Size_overall.PNG)
-
-*School Spending without 9th grade THS*
-
-![](Resources/Spending_Ranges_minus_9th_THS.PNG)
 
 
 
