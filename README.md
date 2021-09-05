@@ -5,6 +5,7 @@ Analysis of school district data regarding standardized test data in order to in
 
 ## Results
 
+# District
 *District Summary*
 
 ![](Resources/District_Summary.PNG)
@@ -13,6 +14,8 @@ Analysis of school district data regarding standardized test data in order to in
 
 ![](Resources/District_Summary_minus_9th_grade_THS.PNG)
 
+When comparing the disctricts before and after the omition of the Thomas High School 9th grade students, we can observe a very miniscule difference in the data. We can see a difference of .20% between the percentage of students passing math. There is a difference of .1% of the students passing readying. The percentage overall was impacted by roughly .3%. Based off this new analysis, we can observe the small changes the omittion of data presented and see that it actually did impact the overall school district data, albeit a very small but noticeable difference.
+
 *School Summary*
 
 ![](Resources/School_Summary.PNG)
@@ -20,6 +23,11 @@ Analysis of school district data regarding standardized test data in order to in
 *School Summary without 9th grade THS*
 
 ![](Resources/School_Summary_without_THS.PNG)
+
+Upon analysis of the two tables presenting the school summary before and after the removal of the Thomas High School 9th graders, we observe that:
+- There is a sharp decrease in overall passing percentage, observing the drop from **90.9%** to roughly **65**
+- There is a sharp decrease in the passing math percentage category, observing the drop from **93.2** to roughly **66.9**
+- There is a sharp decrease in the passing reading percentage category, observing the drop from **97.3%** to roughly **69.6**
 
 *Top Five Schools*
 
