@@ -25,17 +25,21 @@ When comparing the disctricts before and after the omition of the Thomas High Sc
 ![](Resources/School_Summary_without_THS.PNG)
 
 Upon analysis of the two tables presenting the school summary before and after the removal of the Thomas High School 9th graders, we observe that:
-- There is a sharp decrease in overall passing percentage, observing the drop from **90.9%** to roughly **65**
-- There is a sharp decrease in the passing math percentage category, observing the drop from **93.2** to roughly **66.9**
-- There is a sharp decrease in the passing reading percentage category, observing the drop from **97.3%** to roughly **69.6**
+- There is a sharp decrease in overall passing percentage, observing the drop from **90.9%** to roughly **65%**
+- There is a sharp decrease in the passing math percentage category, observing the drop from **93.2** to roughly **66.9%**
+- There is a sharp decrease in the passing reading percentage category, observing the drop from **97.3%** to roughly **69.6%**
 
 *Top Five Schools*
 
 ![](Resources/Top_Five_Schools.PNG)
 
+Before omitting the scores of the Thomas High School 9th graders, the analysis reveals that Thomas High School was ranked second best performing school. After the new analysis with the modified data, we can see that Thomas High School dropped from second place to eight place overall. It is extremely important to note that just by removing one grade of scores, it impacted the school in the district in such a drastic way.
+
 *Bottom Five Schools*
 
 ![](Resources/Bottom_Schools.PNG)
+
+Comparing the before and after list of the bottom five lowest performing schools in the district, we can see it stayed the same, with Thomas High School not entering the bottom five after losing its place in the top five.
 
 *Math Grades*
 
@@ -45,9 +49,13 @@ Upon analysis of the two tables presenting the school summary before and after t
 
 ![](Resources/Math_Grades_without_THS.PNG)
 
+As per instruction, the math scores shows the Thomas High School students being omitted with a NaN, signifying the analysis is not account for it.
+
 *Reading scores without 9th grade THS*
 
 ![](Resources/Reading_Scores_without_THS.PNG)
+
+Similar to the math grades analysis as per instruction, the math scores shows the Thomas High School students being omitted with a NaN, signifying the analysis is not account for it as well.
 
 *Scores by School type*
 
@@ -57,7 +65,10 @@ Upon analysis of the two tables presenting the school summary before and after t
 
 ![](Resources/Scores_by_School_type_minus_9th_grade_THS.PNG)
 
-
+When analyzing the total spending between schools, school type and per student, we can see there was no significant impact in the overall spending since the analysis is only accounting for the change in math and reading scores. Furthermore, when analyzing the new math, reading and overall percentage scores in the two tables referenced above, we do see a siginificant change in the aforementioned scores:
+- The overall passing percentage changed from **73%** to *67%**
+- The math passing percentage saw a decrease from **73%** to **67%**
+- the reading passing percentage saw a decrease from **84%** to **77%**
 
 
 
